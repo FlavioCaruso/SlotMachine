@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SlotMachine</string>
+    <string name="nome_do_jogo">Tibia Slot Machine</string>
+    <string name="versao">Versão</string>
+    <string name="vers">1.0</string>
+    <string name="desenvolvedor">Desenvolvedor: Flávio Caruso</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="nome">Nome:</string>
+    <string name="fichas">Fichas</string>
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="quatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="sete">7</string>
+    <string name="oito">8</string>
+    <string name="nove">9</string>
+    <string name="zero">0</string>
+    <string name="jogar">Jogar</string>
+    <string name="dtnome">Digite seu nome</string>
+    <string name="voltar">Voltar</string>
+    <string name="entrar">Entrar</string>
+</resources>

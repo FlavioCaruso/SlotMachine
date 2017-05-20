@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fichas">
+        <item>@string/zero</item>
+        <item>@string/um</item>
+        <item>@string/dois</item>
+        <item>@string/tres</item>
+        <item>@string/quatro</item>
+        <item>@string/cinco</item>
+        <item>@string/seis</item>
+        <item>@string/sete</item>
+        <item>@string/oito</item>
+        <item>@string/nove</item>
+
+    </string-array>
+    
+</resources>
